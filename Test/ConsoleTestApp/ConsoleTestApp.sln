@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestApp", "ConsoleTestApp.csproj", "{C54A69F7-ED86-424C-B4AA-C1D70A70E4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54A69F7-ED86-424C-B4AA-C1D70A70E4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54A69F7-ED86-424C-B4AA-C1D70A70E4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54A69F7-ED86-424C-B4AA-C1D70A70E4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54A69F7-ED86-424C-B4AA-C1D70A70E4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.VersionControlPolicy = $2
+	EndGlobalSection
+EndGlobal

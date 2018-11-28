@@ -13,3 +13,14 @@ Test/ConsoleTestApp/obj/Debug/ConsoleTestApp.exe
 Test/ConsoleTestApp/obj/Debug/ConsoleTestApp.pdb
 Test/ConsoleTestApp/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 Test/.vs/Test/v15/Server/sqlite3/db.lock
+.DS_Store
+Test/.vs/Test/xs/sqlite3/db.lock
+Test/.vs/Test/xs/sqlite3/storage.ide
+Test/.vs/Test/xs/sqlite3/storage.ide-shm
+Test/.vs/Test/xs/sqlite3/storage.ide-wal
+Test/.vs/Test/xs/UserPrefs.xml
+Test/ConsoleTestApp/.vs/ConsoleTestApp/xs/sqlite3/db.lock
+Test/ConsoleTestApp/.vs/ConsoleTestApp/xs/sqlite3/storage.ide
+Test/ConsoleTestApp/.vs/ConsoleTestApp/xs/sqlite3/storage.ide-shm
+Test/ConsoleTestApp/.vs/ConsoleTestApp/xs/sqlite3/storage.ide-wal
+Test/ConsoleTestApp/.vs/ConsoleTestApp/xs/UserPrefs.xml
